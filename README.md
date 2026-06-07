@@ -1,5 +1,5 @@
 # PDF 合併工具 / PDF Merger Tool
-# 作者:劉立詳/Edwatson  
+作者:劉立詳/Edwatson  
 https://github.com/Edwatsontw
 ---
 
